@@ -54,7 +54,7 @@ This section lists the individual lab assignment files, structured according to 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/hodini007/discrete-utils
     cd cse2102
     ```
 
